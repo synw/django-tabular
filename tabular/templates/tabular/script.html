@@ -1,0 +1,8 @@
+{% load staticfiles %}
+<script src="{% static 'tablefilter/tablefilter.js' %}"></script>
+<script>
+	var tf = new TableFilter(document.querySelector('.tabular-table'), {
+	    base_path: '/static/tablefilter/'
+	});
+	tf.init();
+</script>
