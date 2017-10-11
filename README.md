@@ -5,6 +5,11 @@ Display tabular data in Django. This module was designed to integrate tabular da
 
 ## Install
 
+
+   ```python
+   pip install goerr
+   ```
+
 Clone the repository and add `"tabular"` to installed apps
 
 ## Usage
