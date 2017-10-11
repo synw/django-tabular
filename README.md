@@ -32,6 +32,8 @@ This will save an Table instance in the database and generate a chunk of html to
       instance.generate()
    ``` 
 
+This will generate a `templates/tabular/tables/all_users.html` file
+
 In a template:
 
    ```django
