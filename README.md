@@ -39,4 +39,8 @@ In a template:
    ```django
    {% include "tabular/tables/all_users.html" %}
    {% include "tabular/script.html" %}
+   
+## Credits
+
+[Tablefilter.js](https://github.com/koalyptus/TableFilter)
    ```
